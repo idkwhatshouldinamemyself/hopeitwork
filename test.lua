@@ -17,6 +17,4 @@ local function Test(plr)
           end
       end
    end)
-  end
-
-  
+end
